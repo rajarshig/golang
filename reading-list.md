@@ -1,6 +1,16 @@
 # Basics
 - [https://tour.golang.org/](https://tour.golang.org/)
 - [https://gobyexample.com/](https://gobyexample.com/)
+- [https://golangbot.com/](https://golangbot.com/)
+
+# Libraries
+- [https://awesome-go.com/](https://awesome-go.com/)
+- [https://github.com/spf13/cobra](https://github.com/spf13/cobra)
+- [https://github.com/gin-gonic/gin](https://github.com/gin-gonic/gin)
+
+# OSS profiles
+- [https://github.com/appleboy](https://github.com/appleboy)
+- 
 
 # OSS work
 - [https://github.com/google/go-tika/issues?q=is%3Aissue+is%3Aopen](go-tika issues)
